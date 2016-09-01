@@ -1,4 +1,5 @@
 #Andrey Devyatkin Bio
+![picute](profile.jpg)
 ##The Fun Stuff
 [Here it is](https://www.youtube.com/embed/gOf1DnKqmNM)
 ##Git and GitHub Experience
