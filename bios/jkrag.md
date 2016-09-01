@@ -1,18 +1,17 @@
 # JKrag Bio
 
-| ![](jankrag.jpg) | 
+![](jankrag.jpg)
 
 ## The Fun Stuff
 
 I am a multi-cultural, multi-interest personality with way more hobbies that I have time for. To name a few: I breed and show pedigree cats, teach genetics, collect Rubiks cubes, breed reptiles, build kites and go to kite festivals, snowboard yearly and am occasionally a bit serious about road biking.
-On top of that I have a odd fascination of programming languages, from the mainstream over the niche to the downright odd, and spured by this interest I started a Polyglot programming Meetup group two years ago, which now has over 430 members. |
-| 
+On top of that I have a odd fascination of programming languages, from the mainstream over the niche to the downright odd, and spured by this interest I started a Polyglot programming Meetup group two years ago, which now has over 430 members. 
+
 
 ## Git and GitHub Experience
 
 I have been using Git for about 4-5 years now, and consider myself a rather advanced user. I have been teaching numerous 2-day Git courses that venture into the lands of rather advanced topics, and even on the beginner courses, I include a rather significant section on Git internals as I find this to be a very useful piece of of the puzzle in order to really understand git and get full benefits. I ahve been using Github on and off for some years, mostly when contributing smaller things to OS projects, and have used it quite a lot since Praqma started managing most of our projects with GitHub issues.
 
- |
 
 ## Teaching Experience
 
