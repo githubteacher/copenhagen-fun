@@ -4,9 +4,41 @@
 
 ## The Fun Stuff
 
-I am a multi-cultural, multi-interest personality with way more hobbies that I have time for. To name a few: I breed and show pedigree cats, teach genetics, collect Rubiks cubes, breed reptiles, build kites and go to kite festivals, snowboard yearly and am occasionally a bit serious about road biking.
+I am a multi-cultural, multi-interest personality with way more hobbies that I have time for. To name a few: I breed and show pedigree cats, teach genetics, collect Rubiks cubes, breed DINOSAURS, build kites and go to kite festivals, snowboard yearly and am occasionally a bit serious about road biking.
 On top of that I have a odd fascination of programming languages, from the mainstream over the niche to the downright odd, and spured by this interest I started a Polyglot programming Meetup group two years ago, which now has over 430 members. 
 
+```
+
+             .-=-==--==--.
+       ..-=="  ,'o`)      `.
+     ,'         `"'         \
+    :  (                     `.__...._
+    |                  )    /         `-=-.
+    :       ,vv.-._   /    /               `---==-._
+     \/\/\/VV ^ d88`;'    /                         `.
+         ``  ^/d88P!'    /             ,              `._
+            ^/    !'   ,.      ,      /                  "-,,__,,--'""""-.
+           ^/    !'  ,'  \ . .(      (         _           )  ) ) ) ))_,-.\
+          ^(__ ,!',"'   ;:+.:%:a.     \:.. . ,'          )  )  ) ) ,"'    '
+          ',,,'','     /o:::":%:%a.    \:.:.:         .    )  ) _,'
+           """'       ;':::'' `+%%%a._  \%:%|         ;.). _,-""
+                  ,-='_.-'      ``:%::)  )%:|        /:._,"
+                 (/(/"           ," ,'_,'%%%:       (_,'
+                                (  (//(`.___;        \
+                                 \     \    `         `
+                                  `.    `.   `.        :
+                                    \. . .\    : . . . :
+                                     \. . .:    `.. . .:
+                                      `..:.:\     \:...\
+                                       ;:.:.;      ::...:
+                                       ):%::       :::::;
+                                   __,::%:(        :::::
+                                ,;:%%%%%%%:        ;:%::
+                                  ;,--""-.`\  ,=--':%:%:\
+                                 /"       "| /-".:%%%%%%%\
+                                                 ;,-"'`)%%)
+                                                /"      "|
+```
 
 ## Git and GitHub Experience
 
