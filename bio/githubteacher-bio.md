@@ -1,3 +1,5 @@
 ## Cynthia Rich
 
-Hails from North Carolina
+Hails from North Carolina. 
+
+Find me on GitHub @crichID
